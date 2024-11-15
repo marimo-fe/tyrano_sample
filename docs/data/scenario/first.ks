@@ -5,7 +5,7 @@
 [wait time=200]
 [freeimage layer="base"]
 
-「惑星探査からの帰還」[l][r]
+「惑星探査からの帰還?」[l][r]
 
 [l][r]
 
