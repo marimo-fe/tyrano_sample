@@ -24,8 +24,6 @@
 
 [cm]
 
-[bg storage=sleep.jpg time=500]
-
 何ごともなく、結晶を十分に採集できた。[l][r]
 [bg storage=pic1.jpg time=500]
 そして調査隊は帰還し、その成果で調査の進展に貢献した。[r]
