@@ -53,7 +53,7 @@
 
 
 調査隊は無事宇宙船に逃げ込んだが、謎の生物は怒り狂い、強靭な足で船を破壊してしまった。[l][r]
-[bg storage=haikei.jpg time=500]
+[bg storage=haikei.png time=500]
 調査隊はかろうじて逃げ出すも、壊れた船を見て、途方に暮れることになった。[r]
 【 BAD END 】[l][cm]
 
